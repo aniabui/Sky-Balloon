@@ -1,5 +1,6 @@
 # Sky Balloon
 An iOS platformer game that Ania Bui and I developed for Dr. Naumov's CS254: Software Development at Illinois Wesleyan University.
+
 ![alt tag](Screenshots/mainmenu.gif)
 
 ## Goals
